@@ -21,7 +21,7 @@ public class Product {
     }
 
 
-    // Getters
+    // Getters kujhkkbhhhk
 
     public int getId(){
         
